@@ -24,7 +24,7 @@
    <project path="device" name="Chairshot215/device" />
    <project path="external" name="MTDEV-CM7/external" />
    <project path="frameworks" name="MTDEV-CM7/frameworks" />
-   <project path="hardware" name="MTDEV-CM7/hardware" />
+   <project path="hardware" name="Chairshot215/hardware" />
    <project path="libcore" name="MTDEV-CM7/libcore" />
    <project path="ndk" name="MTDEV-CM7/ndk" />
    <project path="packages" name="MTDEV-CM7/packages" />
